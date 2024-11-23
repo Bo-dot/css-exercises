@@ -1,0 +1,13 @@
+.shared {
+	font-size:28px;
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button2 {
+	background-color:#edf507;
+}
+
+.button1 {
+	background-color:RGB(5, 5, 0);
+	color:#ffffff;
+}
